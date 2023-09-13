@@ -6,7 +6,7 @@
 
 🚀 My enthusiasm for software knows no bounds, and my constant desire to learn has driven me to continuously evolve in this field. Learning something new and self-improvement have become a way of life for me.
 
-💼 Throughout my career, I have been working extensively with front-end technologies such as React, HTML, CSS, and JavaScript. I have had the opportunity to work at places like [Company or Project Name], where I've honed my skills.
+💼 Throughout my career, I have been working extensively with front-end technologies such as React, HTML, CSS, and JavaScript. I have had the opportunity to work at places like, where I've honed my skills.
 
 🌱 The world of technology is ever-changing, and I relish staying in step with these changes. I have a keen interest in innovative technologies and development practices and take pleasure in implementing them in my projects.</h3>
 
